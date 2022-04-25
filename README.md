@@ -16,3 +16,6 @@ Fast-forward to the end of 2021, my partner and I decided to move from London, O
 - I love planning parties, especially themed ones :tada:! I've done a survivor party, murder mysteries, mario-party party, Squid game party, you name it!
 
 📫 I'm new to GitHub and the world of coding and data in general, so I'm very excited to have found this community! If you have any advice for a newbie like me or just want to connect in general, please email me.
+
+## Projects
+1. Quick analysis of Canadian income vs expenditure data using a custom [interactive spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1tZQnCnyLqXS8jTKlTgT4KvOKIBqOkC8GTOcBIS4ESs0/edit?usp=sharing)
