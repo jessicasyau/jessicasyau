@@ -17,5 +17,7 @@ Fast-forward to 2022, my partner and I decided to move from London, Ontario to S
 
 📫 I'm new to GitHub and the world of coding and data in general, so I'm very excited to have found this community! If you have any advice for a newbie like me or just want to connect in general, please email me.
 
-## Projects
+## Sample Projects
 1. Quick analysis of Canadian income vs expenditure data using a custom [interactive spreadsheet dashboard](https://docs.google.com/spreadsheets/d/1tZQnCnyLqXS8jTKlTgT4KvOKIBqOkC8GTOcBIS4ESs0/edit?usp=sharing)
+
+2. [Analysis of US fatal traffic accidents from 2000 to 2020](https://jessicasyau.github.io/US-traffic-fatalities/)
